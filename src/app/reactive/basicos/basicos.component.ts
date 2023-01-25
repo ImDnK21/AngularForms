@@ -32,7 +32,6 @@ export class BasicosComponent implements OnInit {
       precio : 670000,
       existencias: 0
     })
-      
   }
 
   campoEsValido(campo : string){
